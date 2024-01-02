@@ -1,0 +1,4 @@
+name: ChatCensored
+version: '1.0-SNAPSHOT'
+main: app.focusprojectteam.chatcensored.Main
+api-version: '1.18'
